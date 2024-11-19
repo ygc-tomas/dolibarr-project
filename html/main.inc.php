@@ -76,6 +76,7 @@ function getArrayOfEmoji()
 	return $arrayofcommonemoji;
 }
 
+/** add comment */
 /**
  * Return the real char for a numeric entities.
  * WARNING: This function is required by testSqlAndScriptInject() and the GETPOST 'restricthtml'. Regex calling must be similar.
