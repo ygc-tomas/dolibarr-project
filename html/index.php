@@ -24,6 +24,7 @@
 
 /**
  *	\file       htdocs/index.php
+ * test comment
  *	\brief      Dolibarr home page
  */
 
@@ -38,6 +39,7 @@ $_GET['mainmenu'] = GETPOST('mainmenu', 'aZ09') ? GETPOST('mainmenu', 'aZ09') : 
 $action = GETPOST('action', 'aZ09');
 
 $hookmanager->initHooks(array('index'));
+
 
 
 /*
