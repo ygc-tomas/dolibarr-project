@@ -57,21 +57,6 @@
   - 設定管理
   - 依存関係チェック
 
-## 機能別ソースコード箇所
-
-### 会計/財務機能
-core/accountancy.php
-core/finance.php
-
-### 顧客管理機能
-core/customer.php
-
-### 在庫管理機能
-core/stock.php
-
-### 仕入/発注機能
-core/purchase.php
-
 ------------------------
 
 # English
