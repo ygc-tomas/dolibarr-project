@@ -4,6 +4,7 @@
 
 ## ディレクトリ構造
   DOLIBARR-PROJECT：プロジェクト全体フォルダ（Git管理）
+
     /docs: 開発用資料格納場所
         -FunctionList.md: 当資料
         -function_{機能名}.md: 機能別仕様書
@@ -40,7 +41,7 @@
    - 求人情報管理
    - 応募者追跡
    - 面接スケジュール
-　 - レポート機能
+   - レポート機能
 
 6. [支払い管理](function_Payment.md): 支払い処理と管理
    - 支払い処理
@@ -64,13 +65,15 @@
 The purpose of this document is to provide the locations of reference materials and source code for developing a production management application based on Dolibarr.
 
 ## Directory Structure
-DOLIBARR-PROJECT: Main project folder (managed by Git)
-    /docs: Repository for development materials
-        - FunctionList.md: This document
-        - function_{function_name}.md: Function detail 
-    
-    /html: Repository for source code
-        /core: Core functionality of Dolibarr
-            /modules: Module-specific functionalities
-    /themes: Layouts for each theme
+DOLIBARR-PROJECT: Main project folder (managed with Git)
+
+    /docs: Storage for development resources  
+        - FunctionList.md: This document  
+        - function_{function_name}.md: Specifications for each function  
+
+    /html: Storage for source code  
+        /core: Core functionalities of Dolibarr  
+            /modules: Functionality by module  
+
+    /themes: Layouts by theme  
 
