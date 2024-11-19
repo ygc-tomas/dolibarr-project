@@ -17,19 +17,19 @@
 
 ## 機能一覧
 1. [OAuth認証](function_OAuthVerification.md):OAuth認証: 外部サービスとの認証連携を管理
-   - Microsoft, GitHub, Stripe等との認証
+   - Microsoft, GitHub, Stripe等との認証フロー
    - トークン管理
    - コールバック処理
 
 2. [バーコード管理](function_BarcodeManagement.md): バーコードの生成と管理
    - バーコード生成
-   - テンプレート管理
    - 印刷機能
+   - データ管理
 
 3. [通知管理](function_Notification.md): システム通知の制御
-   - Eメール通知
-   - プッシュ通知
-   - 通知設定管理
+   - 通知設定
+   - イベントトリガー
+   - 配信チャネル
 
 4. [ラベル管理](function_LabelManagement.md): ラベル印刷と管理
    - ラベルテンプレート
@@ -40,12 +40,22 @@
    - 求人情報管理
    - 応募者追跡
    - 面接スケジュール
+　 - レポート機能
 
 6. [支払い管理](function_Payment.md): 支払い処理と管理
+   - 支払い処理
+   - ステータス管理
+   - レポート生成
 
 7. [POS管理](function_PosManagement.md): POSシステムの管理
+   - 販売管理
+   - レシート印刷
+   - 在庫連携
 
 8. [汎用モジュール管理](function_ModulesManagement.md): モジュールの有効化と設定
+  - モジュール管理
+  - 設定管理
+  - 依存関係チェック
 
 ## 機能別ソースコード箇所
 
