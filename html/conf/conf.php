@@ -16,3 +16,4 @@ $dolibarr_main_prod=1;
 $dolibarr_main_instance_unique_id='myinstanceuniquekey';
 $dolibarr_main_db_character_set='utf8mb4';
 $dolibarr_main_db_collation='utf8mb4_unicode_ci';
+$dolibarr_main_prod=1;
