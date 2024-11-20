@@ -58,6 +58,9 @@
   - 設定管理
   - 依存関係チェック
 
+参考サイト
+ * [Dolibarr Official Wiki]
+ https://wiki.dolibarr.org/index.php?title=Category:List_of_Modules
 ------------------------
 
 # English
