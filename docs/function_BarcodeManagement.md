@@ -12,6 +12,7 @@
 ## 関連ソースコード
 ### クラス
 - modBarcode (html/core/modules/modBarcode.class.php)
+- Barcode (html/admin/barcode.php)
 
 ### 主要メソッド
 - init(): モジュール初期化
